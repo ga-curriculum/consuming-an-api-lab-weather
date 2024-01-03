@@ -19,7 +19,7 @@ For this lab you will be constructing a simple Express server that makes a call 
 ### Step Three: Create the `/cats/fact` route:
 
 	- In `server.js`, create a GET route for `/cats/fact`.
-	- In the route handler, make a GET request to the API endpoint `https://catfact.ninja/fact` using the axios dependency.
+	- In the route handler, make a GET request to the API endpoint `https://catfact.ninja/fact` using a library like axios or fetch.
 
 ### Step Four: Render the `cat/fact.ejs` template:
 
