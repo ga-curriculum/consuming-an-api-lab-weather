@@ -38,3 +38,9 @@ For this lab you will be constructing a simple Express server that makes a call 
 	- Open your browser and go to `http://localhost:3000`.
 	- Click on the `Get a cat fact` link and verify that you see a cat fact displayed on the page.
 	- Click on the `Get another cat fact!` link to fetch and display a new cat fact.
+
+### Bonus
+
+Try the following bonus challenge if you're up for it!
+
+  - The API also has another endpoint: `https://catfact.ninja/facts`, which serves up an array of cat facts. Modify your app to fetch data from this endpoint and do something creative with the array of cat facts!
