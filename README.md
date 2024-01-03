@@ -1,8 +1,8 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Consuming an API Lab](./assets/tktk-hero.png)
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+In this lab, we will practice making a request to a 3rd party API to display cat facts in the browser. You will use the EJS template engine to render the data received from the API and create a link to get another cat fact.
 
 ## Prerequisites
 
@@ -10,13 +10,7 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-## Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
+Estimated time to complete core lab exercise: **60 min**
 
 ## Content
 
@@ -29,15 +23,7 @@ tktk If there is not a starter code repo that students will fork and clone to st
 
 ## Solution code
 
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
+🏁 [Solution code](#tktk-external-repo-link-url)
 
 ## Internal resources
 
