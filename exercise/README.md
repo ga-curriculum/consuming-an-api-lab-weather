@@ -9,8 +9,10 @@ For this assignment you'll be using the Open Weather Data API. In order to use i
 - Test the url in browswer to verify that your key works.
 
 ```
-api.openweathermap.org/data/2.5/weather?zip={ZIP CODE},us&units=imperial&appid={API KEY}
+api.openweathermap.org/data/2.5/weather?zip=[ZIP CODE],us&units=imperial&appid=[API KEY]
 ```
+
+> Make sure to remove the brackets around the API key and zip code!
 
 ## Instructions
 
@@ -39,7 +41,8 @@ api.openweathermap.org/data/2.5/weather?zip={ZIP CODE},us&units=imperial&appid={
 
 ### Step Five: Handle the request and response:
 
-- In the route handler for `/weather`, use the request body to obtain the zip code.
+- In `server.js`, create a POST route for `/weather`.
+- In the route handler for POST `/weather`, use the request body to obtain the zip code.
 - Using the zip code and the API key, make a request to the Open Weather Map API.
 - Render the `/weather/show.ejs` template with the weather data.
 
