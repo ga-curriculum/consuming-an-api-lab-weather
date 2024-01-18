@@ -30,10 +30,10 @@ During initialization, you will be prompted to customize your project and the `p
 
 At this point, accept the defaults (by simply just hitting `Return`/`Enter` for each prompt without adding any values), except for the entry point - set this to be `server.js`.
 
-You will need to install three dependencies in order to get your code to work:  Express, EJS, and Axios.
+You will need to install three dependencies in order to get your code to work: Express, EJS, and Dotenv.
 
 ```bash
-npm i express ejs axios
+npm i express ejs dotenv
 ```
 
 Open the project's folder in VS Code:
