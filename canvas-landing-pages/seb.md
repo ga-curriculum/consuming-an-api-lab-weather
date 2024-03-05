@@ -2,7 +2,7 @@
 
 ## About
 
-In this lab, we will practice making a request to a 3rd party API to display cat facts in the browser. You will use the EJS template engine to render the data received from the API and create a link to get another cat fact.
+In this lab, we'll practice making requests to a 3rd party API to display weather forecast data in the browser using Express and EJS. You'll practice working with routes, gathering user data, and integrating API responses into the UI of your application.
 
 ## Time to complete
 
@@ -11,4 +11,4 @@ Estimated time to complete core lab exercise: **60 min**
 ## Content
 
 - [Setup](../setup/README.md)
-- [Exercise](../exercise/README.md) 
+- [Exercise](../exercise/README.md)
