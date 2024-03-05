@@ -1,16 +1,26 @@
 # ![Consuming an API Lab - Setup](./assets/hero.png)
 
-Open your Terminal application and navigate to your `~/code/ga/labs` directory:
+## Setup
 
+Open your Terminal application and navigate to your `~/code/ga/labs` directory:
 
 ```bash
 cd ~/code/ga/labs
 ```
 
-Make a new directory called `consuming-an-api-lab`, then enter this directory:
+Make a new repository on [GitHub](https://github.com/) named `consuming-an-api-lab`.
+
+Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
-mkdir consuming-an-api-lab
+git clone https://git.generalassemb.ly/<your-username>/consuming-an-api-lab.git
+```
+
+> 🚨 Do not copy the above command. It will not work. Your GitHub username will replace <github-username> (including the < and >) in the URL above.
+
+Next, `cd` into your new cloned directory, `consuming-an-api-lab`:
+
+```bash
 cd consuming-an-api-lab
 ```
 
@@ -30,7 +40,7 @@ During initialization, you will be prompted to customize your project and the `p
 
 At this point, accept the defaults (by simply just hitting `Return`/`Enter` for each prompt without adding any values), except for the entry point - set this to be `server.js`.
 
-You will need to install three dependencies in order to get your code to work: Express, EJS, and Dotenv.
+You will need to install three dependencies for this exercise: Express, EJS, and Dotenv.
 
 ```bash
 npm i express ejs dotenv
