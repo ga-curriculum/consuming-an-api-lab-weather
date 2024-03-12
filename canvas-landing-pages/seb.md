@@ -1,4 +1,4 @@
-# ![Consuming an API Lab](../assets/tktk-hero.png)
+# ![Consuming an API Lab](../assets/hero.png)
 
 ## About
 
