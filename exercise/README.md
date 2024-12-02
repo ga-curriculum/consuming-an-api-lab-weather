@@ -1,10 +1,13 @@
-# ![Consuming an API Lab - Exercise](./assets/hero.png)
+<h1>
+  <span class="headline">Consuming an API Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 
 In this lab, we'll practice making requests to a 3rd party API to display weather forecast data in the browser using Express and EJS. You'll practice working with routes, gathering user data, and integrating API responses into the UI of your application.
 
 ## Set up your account
 
-For this lab, we'll be using the [Open Weather Map API](https://home.openweathermap.org/). 
+For this lab, we'll be using the [Open Weather Map API](https://home.openweathermap.org/).
 
 Follow these simple steps to get started:
 
