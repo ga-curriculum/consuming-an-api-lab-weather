@@ -26,7 +26,7 @@ Estimated time to complete core lab exercise: **60 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/consuming-an-api-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/consuming-an-api-lab-solution)
 
 ### Course landing pages
 
